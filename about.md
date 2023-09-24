@@ -2,7 +2,6 @@
 title: About me
 permalink: /about/
 layout: page
-excerpt: Cyber Security Engineer
 comments: false
 ---
 
